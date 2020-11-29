@@ -1,0 +1,22 @@
+.container{
+    padding-top:100px;
+}
+
+.done{
+    text-decoration: line-through;
+    color: gray;
+}
+.list-group{
+    display: block;
+}
+.list-btn{
+    display: inline;
+    margin-left: left 50px;
+}
+.list-group-item p{
+    display: inline;
+    padding-right:100px
+}
+.none-list{
+    display: none;
+}
